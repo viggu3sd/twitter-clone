@@ -40,3 +40,4 @@ export const formatMemberSinceDate = (createdAt) => {
 	const year = date.getFullYear();
 	return `Joined ${month} ${year}`;
 };
+
