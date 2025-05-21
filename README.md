@@ -44,3 +44,4 @@ npm run build
 ```shell
 npm start
 ```
+###YOur Clone is ready
